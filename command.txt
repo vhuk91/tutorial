@@ -1,0 +1,1 @@
+pdf_table_extractor>extract_pdf_tables.py 2024.pdf aha.xlsx
